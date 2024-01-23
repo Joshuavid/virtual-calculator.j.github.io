@@ -19,4 +19,5 @@ This project is a simple virtual calculator developed in React, allowing basic m
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/virtual-calculator.git
+   git clone https://github.com/Joshuavid/virtual-calculator.j.github.io.git
+
